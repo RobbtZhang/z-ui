@@ -1,5 +1,5 @@
 # z-ui
-
+[![npm version](https://badge.fury.io/js/zys-ui.svg)](https://badge.fury.io/js/zys-ui)
 ## Project setup
 ```
 yarn install
